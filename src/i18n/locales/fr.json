@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "about": "À Propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Sécuriser Votre Avenir Numérique",
+    "subtitle": "Solutions d'experts en cybersécurité et support informatique pour entreprises modernes",
+    "cta": "Commencer",
+    "contact": "Contactez-Nous"
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Des solutions complètes pour vos besoins technologiques",
+    "cybersecurity": {
+      "title": "Cybersécurité",
+      "description": "Protégez votre entreprise avec la détection avancée des menaces, les évaluations de vulnérabilité et la consultation en sécurité."
+    },
+    "techSupport": {
+      "title": "Support Technique",
+      "description": "Assistance technique 24/7, dépannage matériel et support logiciel pour votre équipe."
+    },
+    "cloudServices": {
+      "title": "Services Cloud",
+      "description": "Migration, gestion et optimisation sécurisées du cloud pour une efficacité maximale."
+    },
+    "networkSolutions": {
+      "title": "Solutions Réseau",
+      "description": "Conception, implémentation et maintenance de réseaux fiables et sécurisés."
+    }
+  },
+  "stats": {
+    "title": "Fait confiance par des entreprises du monde entier",
+    "clients": "Clients Satisfaits",
+    "issues": "Problèmes Résolus",
+    "uptime": "Garantie de Disponibilité"
+  },
+  "testimonials": {
+    "title": "Ce Que Disent Nos Clients",
+    "testimonial1": {
+      "quote": "Pladd Technologies Consulting a transformé notre infrastructure informatique et amélioré significativement notre posture de sécurité.",
+      "author": "Sarah Johnson",
+      "company": "FinTech Solutions"
+    },
+    "testimonial2": {
+      "quote": "Leur équipe de support 24/7 a été inestimable pour nos opérations mondiales.",
+      "author": "David Chen",
+      "company": "Global Logistics Inc."
+    }
+  },
+  "contact": {
+    "title": "Entrer en Contact",
+    "subtitle": "Dites-nous comment nous pouvons vous aider",
+    "name": "Nom Complet",
+    "email": "Adresse Email",
+    "phone": "Numéro de Téléphone (Optionnel)",
+    "message": "Comment pouvons-nous vous aider?",
+    "submit": "Envoyer le Message",
+    "success": "Message envoyé! Nous vous répondrons bientôt.",
+    "required": "Champ obligatoire"
+  },
+  "footer": {
+    "company": "Entreprise",
+    "about": "À Propos de Nous",
+    "careers": "Carrières",
+    "blog": "Blog",
+    "legal": "Juridique",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "contact": "Contact",
+    "copyright": "© 2025 Pladd Technologies Consulting. Tous droits réservés."
+  }
+}

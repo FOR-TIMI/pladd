@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Securing Your Digital Future",
+    "subtitle": "Expert cybersecurity & IT support solutions for modern businesses",
+    "cta": "Get Started",
+    "contact": "Contact Us"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions for your tech needs",
+    "cybersecurity": {
+      "title": "Cybersecurity",
+      "description": "Protect your business with advanced threat detection, vulnerability assessments, and security consulting."
+    },
+    "techSupport": {
+      "title": "Tech Support",
+      "description": "24/7 technical assistance, hardware troubleshooting, and software support for your team."
+    },
+    "cloudServices": {
+      "title": "Cloud Services",
+      "description": "Secure cloud migration, management, and optimization for maximum efficiency."
+    },
+    "networkSolutions": {
+      "title": "Network Solutions",
+      "description": "Design, implementation, and maintenance of reliable and secure networks."
+    }
+  },
+  "stats": {
+    "title": "Trusted by businesses worldwide",
+    "clients": "Happy Clients",
+    "issues": "Issues Resolved",
+    "uptime": "Uptime Guarantee"
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "testimonial1": {
+      "quote": "Pladd Technologies Consulting transformed our IT infrastructure and significantly improved our security posture.",
+      "author": "Sarah Johnson",
+      "company": "FinTech Solutions"
+    },
+    "testimonial2": {
+      "quote": "Their 24/7 support team has been invaluable for our global operations.",
+      "author": "David Chen",
+      "company": "Global Logistics Inc."
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Let us know how we can help",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number (Optional)",
+    "message": "How can we help?",
+    "submit": "Send Message",
+    "success": "Message sent! We'll get back to you soon.",
+    "required": "Required field"
+  },
+  "footer": {
+    "company": "Company",
+    "about": "About Us",
+    "careers": "Careers",
+    "blog": "Blog",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact",
+    "copyright": "© 2025 Pladd Technologies Consulting. All rights reserved."
+  }
+}
