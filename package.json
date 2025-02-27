@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "start": "yarn start",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "clsx": "^2.1.1",
