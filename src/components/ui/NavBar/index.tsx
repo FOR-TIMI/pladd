@@ -1,8 +1,8 @@
 import { useAppContext } from "@/hooks/useAppContext";
 import { AnimatePresence, motion } from "framer-motion";
 import { useEffect, useState } from "react";
-import "./index.css"
 import LogoLink from "../Logo/Link";
+import "./index.css";
 
 const Navbar = () => {
   const { t, toggleLanguage, language, toggleTheme, theme } =
@@ -68,7 +68,7 @@ const Navbar = () => {
         <div className="hidden md:flex items-center space-x-4">
           <button
             onClick={toggleLanguage}
-            className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+            className="p-2 rounded-full cursor-pointer hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
             aria-label={
               language === "en" ? "Switch to French" : "Switch to English"
             }
@@ -78,7 +78,7 @@ const Navbar = () => {
 
           <button
             onClick={toggleTheme}
-            className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
+            className="p-2 rounded-full cursor-pointer hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
             aria-label={
               theme === "light" ? "Switch to dark mode" : "Switch to light mode"
             }
