@@ -1,6 +1,8 @@
-import { useAppContext } from "@/app/hooks/useAppContext";
+import { useAppContext } from "@/hooks/useAppContext";
 import { AnimatePresence, motion } from "framer-motion";
 import { useEffect, useState } from "react";
+import "./index.css"
+import LogoLink from "../Logo/Link";
 
 const Navbar = () => {
   const { t, toggleLanguage, language, toggleTheme, theme } =
@@ -33,13 +35,7 @@ const Navbar = () => {
       }`}
     >
       <nav className="container mx-auto px-4 flex justify-between items-center">
-        <a
-          href="#"
-          className="flex items-center"
-          aria-label="Pladd Technologies Consulting"
-        >
-          <div className="text-gradient text-2xl font-bold">Pladd</div>
-        </a>
+        <LogoLink />
 
         {/* Desktop Menu */}
         <div className="hidden md:flex items-center space-x-8">

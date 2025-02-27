@@ -1,4 +1,4 @@
-import { useAppContext } from "@/app/hooks/useAppContext";
+import { useAppContext } from "@/hooks/useAppContext";
 import useScrollReveal from "@/hooks/useScrollReveal";
 
 const Stats = () => {

@@ -1,4 +1,4 @@
-import { useAppContext } from "@/app/hooks/useAppContext";
+import { useAppContext } from "@/hooks/useAppContext";
 import useScrollReveal from "@/hooks/useScrollReveal";
 import useTrackCursor from "@/hooks/useTrackCursor";
 import { FormEventHandler, useRef, useState } from "react";

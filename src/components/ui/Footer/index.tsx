@@ -1,4 +1,5 @@
-import { useAppContext } from "@/app/hooks/useAppContext";
+import { useAppContext } from "@/hooks/useAppContext";
+import LogoLink from "../Logo/Link";
 
 // Footer
 const Footer = () => {
@@ -102,10 +103,10 @@ const Footer = () => {
 
         <div className="border-t border-gray-200 dark:border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="md:flex md:items-center mb-4 md:mb-0">
-            <div className="text-center md:text-left text-gradient text-2xl font-bold mr-2">
-              Pladd Technologies Consulting
+            <div className="flex items-center justify-center  mb-2 md:mb-0 md:text-left text-gradient text-2xl font-bold md:mr-8">
+              <LogoLink/>
             </div>
-            <span className="text-sm opacity-70">{t("footer.copyright")}</span>
+            <span className="text-sm block md:inline text-center md:text-left opacity-70">{t("footer.copyright")}</span>
           </div>
 
           <div className="flex space-x-6">

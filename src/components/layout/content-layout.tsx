@@ -1,4 +1,4 @@
-import { AppProvider } from "@/app/provider";
+import { AppProvider } from "@/providers/AppProvider";
 import useScrollReveal from "@/hooks/useScrollReveal";
 import Footer from "../ui/Footer";
 import ContactForm from "../ui/Forms/Contact";

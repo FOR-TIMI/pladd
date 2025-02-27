@@ -1,0 +1,7 @@
+.logo-link img{
+    transition: all 0.6s;
+}
+
+.logo-link:hover img {
+  transform: rotate(90deg) ;
+}
